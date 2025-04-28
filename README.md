@@ -6,6 +6,6 @@ Python is basically the language I speak in, but I also know a good deal of C++/
 
 Oh, and I'm part of a robotics league, and am pretty much the only person who knows how to code. In a nutshell, odometry is hard. Very hard. Help.
 
-Currently: preparing for 10 finals at once >_<'...
+Currently: preparing for 10 highschool finals at once >_<'...
 
 Have a great day :D
