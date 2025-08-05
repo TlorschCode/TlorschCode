@@ -1,11 +1,11 @@
 Hey, I'm @TlorschCode.
 
-I'm a 15 year old who likes programming, creating cool stuff in Blender, reading fantasy novels, and other notably nerdy stuff.
+I'm a 15 year old who likes programming, creating (not so) cool stuff in Blender, reading fantasy novels, and other notably nerdy stuff.
 
-Python is basically the language I speak in, but I also know a good deal of C++/C#, and some relatively basic Java. I want to learn the more complex parts of C++ (pointers, memory management, etc.), and I also want to learn more of Java. I am trying to learn how to make windows applications. Currently, I am engaged in a riveting, 15 hour (so far) struggle between me, OpenGL, and my C++ Include Path (wish me luck please). I kind of want to learn JavaScript too, but don't really have an interest in Web Development. 
+Python is basically the language I speak in, and I'm fluent in C++, but I also know a good deal of C#, and some relatively basic Java, which I want to learn more of. I kind of want to learn JavaScript too, but don't really have an interest in Web Development. 
 
-Oh, and I'm part of a robotics league, and am pretty much the only person who knows how to code. In a nutshell, odometry is hard. Very hard. Help.
+Oh, and I'm part of a robotics league, and am pretty much the only person who knows how to code. In a nutshell, odometry is hard.
 
-Currently: preparing for 10 highschool finals at once >_<'...
+Currently: Struggling over SolidWorks.
 
 Have a great day :D
