@@ -1,11 +1,12 @@
-Hey, I'm @TlorschCode.
+# Hey, I'm @TlorschCode.
 
-I'm a 15 year old who likes programming, creating (not so) cool stuff in Blender, reading fantasy novels, and other notably nerdy stuff.
+I'm a 15 year old who likes programming in C++, writing essays (sometiems), reading fantasy novels, and hanging with friends.
 
-Python is basically the language I speak in, and I'm fluent in C++, but I also know a good deal of C#, and some relatively basic Java, which I want to learn more of. I kind of want to learn JavaScript too, but don't really have an interest in Web Development. 
+I started my coding journey with Python, but now I only use it for quick projects and scripts. I enjoy the strongly typed structure of C++ more. I've touched Java a few times, but not enough to write anything meaningful in it.
+Since C++ is my goto, I've started learning OpenGL. I somehow managed to learn CUDA before OpenGL, so I'm catching up. My current goal is to make GPU-driven cell-based simulations, like Conway's Game of Life at 100x scale, but with more complex rules and more types of cells. (Sebastian Lague has some great examples in an [old video]([url](https://www.youtube.com/watch?v=kzwT3wQWAHE&t=95s&pp=ygUYc2ViYXN0aWFuIGxhZ3VlIGxpZmUgc2lt)) on his channel)
 
-Oh, and I'm part of a robotics league, and am pretty much the only person who knows how to code. In a nutshell, odometry is hard.
+I also participate in Vex Robotics. Three words. Odometry is hard. (Pure pursuit might be harder if I'm being honest)
 
-Currently: Struggling over SolidWorks.
+**Currently**: Trying to decipher an OpenGL tutorial on YouTube.
 
 Have a great day :D
