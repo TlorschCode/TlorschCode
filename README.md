@@ -1,4 +1,4 @@
-# Hey, I'm TlorschCode.
+# Hello, profile viewer.
 
 I'm a 15 year old who likes programming in C++, writing essays (sometiems), reading fantasy novels, and hanging with friends.
 
