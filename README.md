@@ -1,12 +1,11 @@
 # Hello, profile viewer.
 
-I'm a 15 year old who likes programming in C++, writing essays (sometiems), reading fantasy novels, and hanging with friends.
+I'm a 15 year old who mainly programs (likely) optimized C++ and (likely) unoptimized x86 assembly. Occasionally I work with CUDA or Python.
 
-I started my coding journey with Python, but now I only use it for quick projects and scripts. I enjoy the strongly typed structure of C++ more. I've touched Java a few times, but not enough to write anything meaningful in it.
-Since C++ is my go-to, and I'd like to learn how to do custom graphics, My current goal is to make GPU-driven cell-based simulations, like Conway's Game of Life at 100x scale, but with more complex rules and more types of cells. (Sebastian Lague has some great examples in an [old video]([url](https://www.youtube.com/watch?v=kzwT3wQWAHE&t=95s&pp=ygUYc2ViYXN0aWFuIGxhZ3VlIGxpZmUgc2lt)) on his channel)
 
-I also participate in Vex Robotics, and play the piano. Not important, but I thought I'd share.
+Actively trying to work through open-source codebases until I get to the point where I can make meaningful contributions (I'm getting bored of my own code and want to help someone else out).
 
-**Currently**: Learning Flutter from a 37 hour tutorial. Time to get frontending!
+
+**Currently**: Learning Flutter from a 37 hour tutorial (courtesy of CodeAcademy). Me frontend dev now
 
 Have a great day :D
